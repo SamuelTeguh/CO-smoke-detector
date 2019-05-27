@@ -25,3 +25,7 @@ Pemograman aplikasi mobile dilakukan menggunakan Android Studio. Untuk membuat k
 Pengujian alat pendeteksi asap rokok dilakukan pada ruangan berukuran 3,5m x 4m x 3m dengan kriteria ruangan suhu sekitar 25oC – 35oC dan kelembapan udara sekitar 80%RH-95%RH dan dalam ruangan yang bebas dari sumber asap lainnya seperti asap dapur dan asap kendaraan serta ruangan yang menyediakan koneksi internet. Sesuai dengan hasil pengambilan data, alat diletakan diatas sumber asap rokok. Alat berhasil mengambil foto dan mengirimkan foto tersebut ke dalam aplikasi mobile dengan hasil seperti pada Gambar. Nilai 05-2-2019 Menunjukan tanggal, bulan dan tahun saat terdeteksinya asap rokok. CO Value dan Smoke Value merupakan konsentrasi gas yang terdeteksi. Time merupakan waktu saat diambilnya gambar tersebut. Semua data-data tersebut didapatkan dari cloud database.
 
 <p align="center"><img src="https://i.ibb.co/tmZdZYj/asd3.png"/></p>
+
+## Referensi
+
+https://github.com/dmainmon/ArduCAM-mini-ESP8266-12E-Camera-Server/blob/master/ArduCam_ESP8266_FileCapture.ino
