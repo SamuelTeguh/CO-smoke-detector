@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+    <item android:title="Home">
+        <item android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp">
+        </item>
+    </item>
+    <item android:title="View By">
+        <menu>
+            <item android:id="@+id/nav_graph"
+                android:icon="@drawable/ic_insert_chart_black_24dp"
+                android:title="Chart"/>
+            <item android:id="@+id/nav_database"
+                android:icon="@drawable/ic_storage_black_24dp"
+                android:title="Database"/>
+        </menu>
+    </item>
+    <item android:title="Sensor Setting">
+        <menu>
+            <item android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Setting"/>
+        </menu>
+    </item>
+</menu>

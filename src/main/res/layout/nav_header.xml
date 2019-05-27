@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@drawable/main_header_selector">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:id="@+id/appLogo"
+            android:layout_gravity="center_horizontal|end"
+            android:layout_weight="1"
+            android:src="@drawable/ic_smoke_free_white_24dp"
+            android:layout_width="70dp"
+            android:layout_height="match_parent" />
+        
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/appName"
+        android:layout_gravity="center_horizontal|end"
+        android:paddingTop="10dp"
+        android:text="SmokeCam Detector"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

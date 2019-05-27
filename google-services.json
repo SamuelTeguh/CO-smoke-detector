@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589325972660",
+    "firebase_url": "",
+    "project_id": "smokecam-53f0c",
+    "storage_bucket": "smokecam-53f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589325972660:android:b89539abb7d52ecc",
+        "android_client_info": {
+          "package_name": "com.example.samuelteguh.smokedetectioncam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589325972660-u5r2sl5b0gnj4rcetsqith35esg94l4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samuelteguh.smokedetectioncam",
+            "certificate_hash": "4c4546fe6ebc6c2abb2577854a5d945d0cdb542f"
+          }
+        },
+        {
+          "client_id": "589325972660-rcciak4n9d5lasohse09528usodn2u8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589325972660-rcciak4n9d5lasohse09528usodn2u8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
